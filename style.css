@@ -53,20 +53,20 @@ header {
 .logo {
    display: block;
    float: left;
+   
 }
 .logo span {
-   color: white;
-   display: inline-block;
+   color: navy;
+   font-weight: bold;
    width: 30px;
    height: 30px;
    line-height: 30px;
-   border-radius: 50%;
+   font-size: 28px;
    margin: 5px 0;
    text-align: center;
    text-shadow: 2px 2px 1px rgba(0, 0, 0, .4);
 }
-.logo span:nth-child(odd) {
-   background: #EF5A42;
+
 }
 .logo span:nth-child(even) {
    background: #F8B763;
