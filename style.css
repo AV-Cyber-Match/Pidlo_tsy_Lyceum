@@ -251,6 +251,11 @@ aside {
    float: right;
    
 }
+.as1 {
+   width: 33%;
+   float: left;
+   
+}
 /* блок для виджетов */
 .widget {
    padding: 20px 15px;
