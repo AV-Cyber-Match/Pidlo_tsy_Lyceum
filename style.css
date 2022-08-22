@@ -68,7 +68,7 @@ article{background:#FFFAFA;}
    text-shadow: 2px 2px 1px rgba(0, 0, 0, .4);
 }
 
-}
+
 .logo span:nth-child(even) {
    background: #F8B763;
 }
@@ -96,10 +96,11 @@ article{background:#FFFAFA;}
 }
 /* форма поиска */
 #searchform {
-   float: right;
+   
    margin-left: 46px;
    display: inline-block;
    position: relative;
+   
 }
 #searchform input {
    width: 170px;
